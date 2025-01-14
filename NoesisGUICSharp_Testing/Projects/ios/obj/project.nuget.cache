@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "0N94CHBe6tU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\ios\\ios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bulochka\\.nuget\\packages\\noesis.app\\3.2.6\\noesis.app.3.2.6.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\noesis.app.displays.uikit\\3.2.6\\noesis.app.displays.uikit.3.2.6.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\noesis.app.rendercontexts.mtl\\3.2.6\\noesis.app.rendercontexts.mtl.3.2.6.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\noesis.app.theme\\3.2.6\\noesis.app.theme.3.2.6.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\noesis.gui\\3.2.6\\noesis.gui.3.2.6.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

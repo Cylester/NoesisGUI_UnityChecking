@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\ios\\ios.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\ios\\ios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\ios\\ios.csproj",
+        "projectName": "NoesisGUICSharp_Testing",
+        "projectPath": "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\ios\\ios.csproj",
+        "packagesPath": "C:\\Users\\Bulochka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\ios\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bulochka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Noesis.App.Displays.UIKit": {
+              "target": "Package",
+              "version": "[3.2.*, )"
+            },
+            "Noesis.App.RenderContexts.MTL": {
+              "target": "Package",
+              "version": "[3.2.*, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

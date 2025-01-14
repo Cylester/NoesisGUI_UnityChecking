@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\macos\\macos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\macos\\macos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\macos\\macos.csproj",
+        "projectName": "NoesisGUICSharp_Testing",
+        "projectPath": "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\macos\\macos.csproj",
+        "packagesPath": "C:\\Users\\Bulochka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bulochka\\source\\repos\\NoesisGUICSharp_Testing\\NoesisGUICSharp_Testing\\Projects\\macos\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bulochka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinmac20"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinmac20": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "xamarinmac20": {
+          "dependencies": {
+            "Noesis.App.Displays.AppKit": {
+              "target": "Package",
+              "version": "[3.2.*, )"
+            },
+            "Noesis.App.RenderContexts.MTL": {
+              "target": "Package",
+              "version": "[3.2.*, )"
+            },
+            "Noesis.App.RenderContexts.NSGL": {
+              "target": "Package",
+              "version": "[3.2.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
