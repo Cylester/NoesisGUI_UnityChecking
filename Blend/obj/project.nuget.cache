@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "w2SqTlAaP0U=",
+  "success": false,
+  "projectFilePath": "D:\\Unity\\Projects\\GUICheck\\GUICheck-blend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bulochka\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.37\\microsoft.xaml.behaviors.wpf.1.1.37.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\noesis.gui.extensions\\3.0.31\\noesis.gui.extensions.3.0.31.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bulochka\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\Unity\\Projects\\GUICheck\\Noesis.NoesisGUI.Editor.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\Unity\\Projects\\GUICheck\\Noesis.NoesisGUI.Editor.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-arm64",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Unity\\Projects\\GUICheck\\Assembly-SCharp.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Unity\\Projects\\GUICheck\\Assembly-SCharp.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-arm64",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}

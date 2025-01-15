@@ -1,1 +1,0 @@
-C:\Users\Bulochka\source\repos\NoesisGUICSharp_Testing\NoesisGUICSharp_Testing\Projects\uwp\uwp.csproj;x64

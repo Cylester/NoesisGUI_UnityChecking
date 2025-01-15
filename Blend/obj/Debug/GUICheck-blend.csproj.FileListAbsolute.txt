@@ -1,0 +1,9 @@
+D:\Unity\Projects\GUICheck\Blend\obj\Debug\GUICheck-blend.csproj.AssemblyReference.cache
+D:\Unity\Projects\GUICheck\Blend\obj\Debug\Assets\_Project\NoesisGUI\MVVM\Views\HomeView.baml
+D:\Unity\Projects\GUICheck\Blend\obj\Debug\Assets\_Project\NoesisGUI\MVVM\Views\HomeView.g.cs
+D:\Unity\Projects\GUICheck\Blend\obj\Debug\Blend\App.g.cs
+D:\Unity\Projects\GUICheck\Blend\obj\Debug\GUICheck_MarkupCompile.cache
+D:\Unity\Projects\GUICheck\Blend\obj\Debug\GUICheck_MarkupCompile.lref
+D:\Unity\Projects\GUICheck\Blend\obj\Debug\Assets\_Project\NoesisGUI\MVVM\Views\SettingsView.g.cs
+D:\Unity\Projects\GUICheck\Blend\obj\Debug\GUICheck_Content.g.cs
+D:\Unity\Projects\GUICheck\Blend\obj\Debug\GeneratedInternalTypeHelper.g.cs
